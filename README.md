@@ -15,7 +15,7 @@ https://umang-codess.github.io/
 - **Frontend Structure:** HTML5
 - **Styling & Design:** CSS3
 - **Logic & Interactivity:** JavaScript (Vanilla JS)
-- **Deployment Platform:** GitHub Pages / Render
+- **Deployment Platform:** GitHub Pages 
 
 ## project Structure
 ```text
