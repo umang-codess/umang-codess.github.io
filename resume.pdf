@@ -1,0 +1,170 @@
+%PDF-1.4
+1 0 obj
+<</Type/Catalog/Pages 2 0 R>>
+endobj
+2 0 obj
+<</Type/Pages/Kids[3 0 R]/Count 1>>
+endobj
+3 0 obj
+<</Type/Page/Parent 2 0 R/MediaBox[0 0 612 792]/Contents 4 0 R/Resources<</Font<</F1 5 0 R/F2 6 0 R/F3 7 0 R>>>>/Annots[9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R]>>
+endobj
+4 0 obj
+<</Length 6231>>
+stream
+BT /F2 22.00 Tf 201.50 736.00 Td (Umang Kumar Dubey) Tj ET
+BT /F3 11.50 Tf 160.53 720.48 Td (Software Engineering Intern | Frontend / Full-Stack Developer) Tj ET
+BT /F1 9.50 Tf 36.98 705.52 Td (dubeyumang000@gmail.com) Tj ET
+0.50 w 36.98 703.92 m 149.44 703.92 l S
+BT /F1 9.50 Tf 149.44 705.52 Td ( | ) Tj ET
+BT /F1 9.50 Tf 156.09 705.52 Td (8382076176) Tj ET
+BT /F1 9.50 Tf 203.59 705.52 Td ( | ) Tj ET
+BT /F1 9.50 Tf 210.24 705.52 Td (umang-codess.github.io) Tj ET
+0.50 w 210.24 703.92 m 301.01 703.92 l S
+BT /F1 9.50 Tf 301.01 705.52 Td ( | ) Tj ET
+BT /F1 9.50 Tf 307.66 705.52 Td (github.com/umang-codess) Tj ET
+0.50 w 307.66 703.92 m 407.66 703.92 l S
+BT /F1 9.50 Tf 407.66 705.52 Td ( | ) Tj ET
+BT /F1 9.50 Tf 414.31 705.52 Td (linkedin.com/in/umang-dubey-1836b3373) Tj ET
+0.50 w 414.31 703.92 m 575.02 703.92 l S
+BT /F2 12.50 Tf 36.00 683.67 Td (TECHNICAL SKILLS) Tj ET
+0.70 w 36.00 680.67 m 576.00 680.67 l S
+BT /F2 11.50 Tf 36.00 663.42 Td (Languages: ) Tj ET
+BT /F1 11.50 Tf 95.74 663.42 Td (JavaScript \(ES6+\), Python, C, SQL, HTML5, CSS3) Tj ET
+BT /F2 11.50 Tf 36.00 648.48 Td (Frameworks & Libraries: ) Tj ET
+BT /F1 11.50 Tf 166.63 648.48 Td (React.js, Node.js, Tailwind CSS, Leaflet) Tj ET
+BT /F2 11.50 Tf 36.00 633.53 Td (Databases: ) Tj ET
+BT /F1 11.50 Tf 92.53 633.53 Td (MySQL) Tj ET
+BT /F2 11.50 Tf 36.00 618.58 Td (APIs & AI: ) Tj ET
+BT /F1 11.50 Tf 95.09 618.58 Td (REST APIs \(fetch, async/await\), Gemini API, OMDb API, Open-Meteo, OpenStreetMap Nominatim,) Tj ET
+BT /F1 11.50 Tf 95.09 604.78 Td (OpenRouteService, Prompt Engineering) Tj ET
+BT /F2 11.50 Tf 36.00 589.83 Td (Tools & Platforms: ) Tj ET
+BT /F1 11.50 Tf 133.42 589.83 Td (Git, GitHub, GitHub Pages, Vercel, Google Cloud Platform, Figma-to-code) Tj ET
+BT /F2 12.50 Tf 36.00 567.98 Td (PROJECTS) Tj ET
+0.70 w 36.00 564.98 m 576.00 564.98 l S
+BT /F2 12.00 Tf 36.00 543.13 Td (ContextoMap AI) Tj ET
+BT /F1 11.50 Tf 541.50 543.13 Td (GitHub) Tj ET
+0.50 w 541.50 541.53 m 576.00 541.53 l S
+BT /F1 11.50 Tf 533.45 543.13 Td ( | ) Tj ET
+BT /F1 11.50 Tf 481.39 543.13 Td (Live Demo) Tj ET
+0.50 w 481.39 541.53 m 533.45 541.53 l S
+BT /F3 11.50 Tf 36.00 529.33 Td (JavaScript \(ES6+\), HTML5, CSS3, Leaflet, OpenStreetMap Nominatim, Open-Meteo, OpenRouteService, Gemini) Tj ET
+BT /F3 11.50 Tf 36.00 515.53 Td (2.5 Flash) Tj ET
+BT /F1 11.50 Tf 43.00 501.73 Td (\225) Tj ET
+BT /F1 11.50 Tf 52.00 501.73 Td (Built a client-side mobility intelligence platform that ranks transit options on six metrics \(safety, comfort,) Tj ET
+BT /F1 11.50 Tf 52.00 487.93 Td (reliability, sustainability, speed, cost\), weighted by five commuter personas and re-ranked instantly without) Tj ET
+BT /F1 11.50 Tf 52.00 474.13 Td (refetching API data.) Tj ET
+BT /F1 11.50 Tf 43.00 459.13 Td (\225) Tj ET
+BT /F1 11.50 Tf 52.00 459.13 Td (Integrated Nominatim geocoding with disambiguation prompts, Haversine distance fallback, and live) Tj ET
+BT /F1 11.50 Tf 52.00 445.32 Td (Open-Meteo weather that adjusts mode reliability and safety scores for rain and high wind.) Tj ET
+BT /F1 11.50 Tf 43.00 430.32 Td (\225) Tj ET
+BT /F1 11.50 Tf 52.00 430.32 Td (Implemented distance-based journey classification \(local to international\) with island and landmass checks that) Tj ET
+BT /F1 11.50 Tf 52.00 416.52 Td (block impossible routes; added Gemini-generated route explanations and a chat assistant with a local rules-based) Tj ET
+BT /F1 11.50 Tf 52.00 402.72 Td (fallback.) Tj ET
+BT /F2 12.00 Tf 36.00 381.97 Td (WatchWise) Tj ET
+BT /F1 11.50 Tf 541.50 381.97 Td (GitHub) Tj ET
+0.50 w 541.50 380.37 m 576.00 380.37 l S
+BT /F1 11.50 Tf 533.45 381.97 Td ( | ) Tj ET
+BT /F1 11.50 Tf 481.39 381.97 Td (Live Demo) Tj ET
+0.50 w 481.39 380.37 m 533.45 380.37 l S
+BT /F3 11.50 Tf 36.00 368.17 Td (JavaScript \(ES6+\), HTML5, CSS3, OMDb API, localStorage) Tj ET
+BT /F1 11.50 Tf 43.00 354.37 Td (\225) Tj ET
+BT /F1 11.50 Tf 52.00 354.37 Td (Built a responsive single-page app to search movies and TV shows, filter by type and year, and view details such) Tj ET
+BT /F1 11.50 Tf 52.00 340.57 Td (as ratings, cast, and plot, using real-time OMDb API data via fetch and async/await.) Tj ET
+BT /F1 11.50 Tf 43.00 325.57 Td (\225) Tj ET
+BT /F1 11.50 Tf 52.00 325.57 Td (Rendered results with dynamic DOM manipulation and saved favorites in browser localStorage, requiring no) Tj ET
+BT /F1 11.50 Tf 52.00 311.77 Td (backend database.) Tj ET
+BT /F2 12.00 Tf 36.00 291.02 Td (Chai Corner) Tj ET
+BT /F1 11.50 Tf 541.50 291.02 Td (GitHub) Tj ET
+0.50 w 541.50 289.42 m 576.00 289.42 l S
+BT /F1 11.50 Tf 533.45 291.02 Td ( | ) Tj ET
+BT /F1 11.50 Tf 481.39 291.02 Td (Live Demo) Tj ET
+0.50 w 481.39 289.42 m 533.45 289.42 l S
+BT /F3 11.50 Tf 36.00 277.22 Td (HTML5, Tailwind CSS \(CDN, custom theme config\), Vanilla JavaScript, Google Fonts) Tj ET
+BT /F1 11.50 Tf 43.00 263.42 Td (\225) Tj ET
+BT /F1 11.50 Tf 52.00 263.42 Td (Built a responsive order board for a fictional tea stall with per-item +/- counters, an auto-calculated bill \(item) Tj ET
+BT /F1 11.50 Tf 52.00 249.63 Td (count and amount\), a highlighted special of the day, and one-click reset, using Tailwind utility classes and plain) Tj ET
+BT /F1 11.50 Tf 52.00 235.83 Td (JavaScript with no build tools or libraries.) Tj ET
+BT /F2 12.50 Tf 36.00 212.77 Td (DEVELOPMENT HIGHLIGHTS) Tj ET
+0.70 w 36.00 209.77 m 576.00 209.77 l S
+BT /F2 12.00 Tf 36.00 187.93 Td () Tj ET
+BT /F1 11.50 Tf 43.00 174.13 Td (\225) Tj ET
+BT /F1 11.50 Tf 52.00 174.13 Td (Independently designed, built, and deployed 4+ web applications on GitHub Pages and Vercel, handling UI) Tj ET
+BT /F1 11.50 Tf 52.00 160.33 Td (implementation, API integration, and hosting without a team.) Tj ET
+BT /F1 11.50 Tf 43.00 145.33 Td (\225) Tj ET
+BT /F1 11.50 Tf 52.00 145.33 Td (Translated Figma designs into responsive interfaces and practiced data structures and algorithms alongside) Tj ET
+BT /F1 11.50 Tf 52.00 131.53 Td (project work \(10+ problems solved\).) Tj ET
+BT /F2 12.50 Tf 36.00 108.48 Td (CERTIFICATIONS) Tj ET
+0.70 w 36.00 105.48 m 576.00 105.48 l S
+BT /F2 12.00 Tf 36.00 83.63 Td (Introduction to Cybersecurity) Tj ET
+BT /F3 11.50 Tf 516.59 83.63 Td (02 July 2026) Tj ET
+BT /F3 11.50 Tf 36.00 69.83 Td (Cisco Networking Academy | Recipient: Umang Kumar Dubey) Tj ET
+endstream
+endobj
+5 0 obj
+<</Type/Font/Subtype/Type1/BaseFont/Times-Roman/Encoding/WinAnsiEncoding>>
+endobj
+6 0 obj
+<</Type/Font/Subtype/Type1/BaseFont/Times-Bold/Encoding/WinAnsiEncoding>>
+endobj
+7 0 obj
+<</Type/Font/Subtype/Type1/BaseFont/Times-Italic/Encoding/WinAnsiEncoding>>
+endobj
+8 0 obj
+<</Title(Umang Kumar Dubey - Resume)/Author(Umang Kumar Dubey)/Subject(Software Engineering Internship Resume)>>
+endobj
+9 0 obj
+<</Type/Annot/Subtype/Link/Border[0 0 0]/Rect[36.98 703.52 149.44 714.02]/A<</S/URI/URI(mailto:dubeyumang000@gmail.com)>>>>
+endobj
+10 0 obj
+<</Type/Annot/Subtype/Link/Border[0 0 0]/Rect[210.24 703.52 301.01 714.02]/A<</S/URI/URI(https://umang-codess.github.io/)>>>>
+endobj
+11 0 obj
+<</Type/Annot/Subtype/Link/Border[0 0 0]/Rect[307.66 703.52 407.66 714.02]/A<</S/URI/URI(https://github.com/umang-codess)>>>>
+endobj
+12 0 obj
+<</Type/Annot/Subtype/Link/Border[0 0 0]/Rect[414.31 703.52 575.02 714.02]/A<</S/URI/URI(https://www.linkedin.com/in/umang-dubey-1836b3373)>>>>
+endobj
+13 0 obj
+<</Type/Annot/Subtype/Link/Border[0 0 0]/Rect[541.50 541.13 576.00 553.63]/A<</S/URI/URI(https://github.com/umang-codess/ContextoMap-AI)>>>>
+endobj
+14 0 obj
+<</Type/Annot/Subtype/Link/Border[0 0 0]/Rect[481.39 541.13 533.45 553.63]/A<</S/URI/URI(https://contextomap-ai.vercel.app/)>>>>
+endobj
+15 0 obj
+<</Type/Annot/Subtype/Link/Border[0 0 0]/Rect[541.50 379.97 576.00 392.47]/A<</S/URI/URI(https://github.com/umang-codess/WatchWise)>>>>
+endobj
+16 0 obj
+<</Type/Annot/Subtype/Link/Border[0 0 0]/Rect[481.39 379.97 533.45 392.47]/A<</S/URI/URI(https://umang-codess.github.io/WatchWise/)>>>>
+endobj
+17 0 obj
+<</Type/Annot/Subtype/Link/Border[0 0 0]/Rect[541.50 289.02 576.00 301.52]/A<</S/URI/URI(https://github.com/umang-codess/Chai-Corner)>>>>
+endobj
+18 0 obj
+<</Type/Annot/Subtype/Link/Border[0 0 0]/Rect[481.39 289.02 533.45 301.52]/A<</S/URI/URI(https://umang-codess.github.io/Chai-Corner/)>>>>
+endobj
+xref
+0 19
+0000000000 65535 f 
+0000000009 00000 n 
+0000000054 00000 n 
+0000000105 00000 n 
+0000000312 00000 n 
+0000006592 00000 n 
+0000006682 00000 n 
+0000006771 00000 n 
+0000006862 00000 n 
+0000006990 00000 n 
+0000007129 00000 n 
+0000007271 00000 n 
+0000007413 00000 n 
+0000007573 00000 n 
+0000007730 00000 n 
+0000007875 00000 n 
+0000008027 00000 n 
+0000008179 00000 n 
+0000008333 00000 n 
+trailer
+<</Size 19/Root 1 0 R/Info 8 0 R>>
+startxref
+8487
+%%EOF
